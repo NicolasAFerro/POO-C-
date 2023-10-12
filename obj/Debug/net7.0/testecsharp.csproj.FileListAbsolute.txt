@@ -1,0 +1,14 @@
+C:\Users\Nicolas\Documents\fatec\testecsharp\obj\Debug\net7.0\testecsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas\Documents\fatec\testecsharp\obj\Debug\net7.0\testecsharp.AssemblyInfoInputs.cache
+C:\Users\Nicolas\Documents\fatec\testecsharp\obj\Debug\net7.0\testecsharp.AssemblyInfo.cs
+C:\Users\Nicolas\Documents\fatec\testecsharp\obj\Debug\net7.0\testecsharp.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\Documents\fatec\testecsharp\bin\Debug\net7.0\testecsharp.exe
+C:\Users\Nicolas\Documents\fatec\testecsharp\bin\Debug\net7.0\testecsharp.deps.json
+C:\Users\Nicolas\Documents\fatec\testecsharp\bin\Debug\net7.0\testecsharp.runtimeconfig.json
+C:\Users\Nicolas\Documents\fatec\testecsharp\bin\Debug\net7.0\testecsharp.dll
+C:\Users\Nicolas\Documents\fatec\testecsharp\bin\Debug\net7.0\testecsharp.pdb
+C:\Users\Nicolas\Documents\fatec\testecsharp\obj\Debug\net7.0\testecsharp.dll
+C:\Users\Nicolas\Documents\fatec\testecsharp\obj\Debug\net7.0\refint\testecsharp.dll
+C:\Users\Nicolas\Documents\fatec\testecsharp\obj\Debug\net7.0\testecsharp.pdb
+C:\Users\Nicolas\Documents\fatec\testecsharp\obj\Debug\net7.0\testecsharp.genruntimeconfig.cache
+C:\Users\Nicolas\Documents\fatec\testecsharp\obj\Debug\net7.0\ref\testecsharp.dll
